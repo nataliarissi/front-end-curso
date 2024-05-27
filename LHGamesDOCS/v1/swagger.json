@@ -15,7 +15,7 @@
       "description": "Servidor de Produção"
     },
     {
-      "url": "http://api.lhgames.com/v1",
+      "url": "http://testes-api.lhgames.com",
       "description": "Servidor de testes de API"
     }
   ],
